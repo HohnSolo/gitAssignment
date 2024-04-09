@@ -1,8 +1,4 @@
-/*
-TCSS 342
-Author: David Hohn
-This file initializes and performs the functions for the queue.
- */
+
 
 public class PriorityQueue<T extends Comparable<T>> extends ArrayHeap<T> {
 
