@@ -1,10 +1,3 @@
-/**
- * Author - David Hohn
- * TCSS 342 - assignment 2
- *
- * This is the class for the single linkedlist.  It contains constructor and relevant methods to help with
- * sorting, and displaying.
- */
 
 // create the class for the SLL
 public class SLL<T> {
